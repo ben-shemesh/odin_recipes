@@ -1,0 +1,19 @@
+* {
+  color: rgb(127, 42, 206);
+  background-color: rgb(161, 161, 248);
+  text-align: center;
+}
+
+.title {
+  border-style: solid;
+}
+
+.home-links {
+  border-style: solid;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+.descripborder {
+  border-style: solid;
+  background-color: rgb(62, 122, 252);
+}
